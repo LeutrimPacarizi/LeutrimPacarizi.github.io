@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = "Leutrim Pacarizi"
+  spec.name          = "Leutrim Pa"&ccedil;"arizi"
   spec.version       = "4.0.12"
-  spec.authors       = ["Leutrim Pacarizi"]
+  spec.authors       = ["Leutrim Pa"&ccedil;"arizi"]
   spec.email         = ["Leutrim.pacarizi@tutanota.com"]
 
   spec.summary       = "A simple blog theme based on Bootstrap 4 by Start Bootstrap."
