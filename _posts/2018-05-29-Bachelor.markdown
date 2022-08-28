@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Bachelor Thesis at the Center for Hybride Nanostructures (DESY)"
+subtitle: "Setup optimization for field emission measurements of nanomembranes"
+date: Mai 2018
+background: '/img/sampleassembly.jpg'
+---
+
+
+<h2 class="section-heading">Abstract</h2>
+
+<p>This thesis is about a setup for field emission measurements, which offer the potential to be inserted into a spectrometer for protein mass determination. The aim of this thesis is to construct this setup in a way that it does not show field emission by itself and can reach high electric fields without generating an electrical breakdown. In addition, the reproducibility of the measurements shall become increased. During this work, the single components (Teflon, Kapton, PEEK) are studied for their suitability to be inserted into this setup. Furthermore, the infuence of diffrent preparation methods (contacting, cutting) of these components to the maximum reachable electric field and the reproducibility of the measurements is investigated. Moreover, different grids and structures as well as the application of a torque spanner during assembling are researched.</p>
+
+
+
+<h2 class="section-heading">Responsibilities</h2>
+<ul style="list-style-type:disc">
+	<li>Electric measurements of field effect current of nanomemrane sensors</li>
+	<li>Assemled the sensor setup and measured the field emission signal by applying an external voltage</li>
+    <li>Evaluated the sequence of the sensor components and the usaility of different preparation methods for their configuration</li>
+    <li>Analysis of the breakdown voltage of different sensor components</li>
+</ul>
+
+<b> Used Methods: Sputtering, thermal evaporation technique (PVD), Laser cutting </b>
+
+The change is here!
