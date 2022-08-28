@@ -1,8 +1,8 @@
 
 Gem::Specification.new do |spec|
-  spec.name          = "Leutrim Pa"&ccedil;"arizi"
+  spec.name          = "Leutrim Pa&#199;arizi"
   spec.version       = "4.0.12"
-  spec.authors       = ["Leutrim Pa"&ccedil;"arizi"]
+  spec.authors       = ["Leutrim Pa&#199;arizi"]
   spec.email         = ["Leutrim.pacarizi@tutanota.com"]
 
   spec.summary       = "A simple blog theme based on Bootstrap 4 by Start Bootstrap."
