@@ -2,11 +2,15 @@ title: Leutrim Pacarizi
 email: Leutrim.pacarizi@tutanota.com
 description: Nano Scientist & Solar Cell Researcher
 baseurl: ""
-url: ""
+url: "https://LeutrimPacarizi.github.io"
 github_username: Leutrim07
 linkedin_username: leutrim-pacarizi
 
 # Build settings
 theme: minima
+pignate: 5
+paginate_path:  "/posts/page:num/"
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
